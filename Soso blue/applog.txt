@@ -1,0 +1,844 @@
+Project Log:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/applog.txt
+**************************
+[2025-07-28 16:56:16]App Started:App Version:7.5.0|DeviceModel:samsung SM-A145R|OS:Android OS 14 / API-34 (UP1A.231005.007/A145RXXSACYC1)|GraphicsDevice:Mali-G52 MC2|DeviceStr:c9a0bf66df6480e54da2c2043802ce08(Prop)
+
+[2025-07-28 16:56:16]Universal(Prop)
+
+[2025-07-28 16:56:20]New Project(Home)
+
+[2025-07-28 16:56:20]start saving project:Untitled(Home)
+
+[2025-07-28 16:56:20]finished saving project, time cost:0,40
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Home)
+
+[2025-07-28 16:56:26][OP]OPNewModel:(Prop)
+
+[2025-07-28 16:56:27]start saving project:Untitled(Prop)
+
+[2025-07-28 16:56:27]finished saving project, time cost:0,17
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+**************************
+[2025-07-28 16:57:13]App Started:App Version:7.5.0|DeviceModel:samsung SM-A145R|OS:Android OS 14 / API-34 (UP1A.231005.007/A145RXXSACYC1)|GraphicsDevice:Mali-G52 MC2|DeviceStr:c9a0bf66df6480e54da2c2043802ce08(Prop)
+
+[2025-07-28 16:57:13]Universal(Prop)
+
+[2025-07-28 16:57:17]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Untitled.nv(Home)
+
+[2025-07-28 16:57:18]deleted empty media folder(Home)
+
+[2025-07-28 16:57:18]deleted empty font folder(Home)
+
+[2025-07-28 16:57:22][OP]OPNewModel:(Prop)
+
+[2025-07-28 16:57:22]start saving project:Untitled(Prop)
+
+[2025-07-28 16:57:22]finished saving project, time cost:0,18
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+**************************
+[2025-07-28 16:57:42][OP]OPParamModify:Root/Custom Model/Transform/Rotation(Prop)
+
+[2025-07-28 16:57:46][Undo]OPParamModify:Root/Custom Model/Transform/Rotation(Prop)
+
+[2025-07-28 16:57:48][OP]OPParamModify:Root/Custom Model/Transform/Position(Prop)
+
+[2025-07-28 16:57:56][OP]OPParamModify:Root/Custom Model/Custom Model/Type(Prop)
+
+[2025-07-28 16:57:57][OP]OPParamModify:Root/Custom Model/Custom Model/Metallic(Prop)
+
+[2025-07-28 16:58:09][OP]OPParamModify:Root/Custom Model/Custom Model/Environment Texture(Prop)
+
+[2025-07-28 16:58:16][OP]OPParamModify:Root/Custom Model/Custom Model/Reflection(Prop)
+
+[2025-07-28 16:58:17][OP]OPParamModify:Root/Custom Model/Custom Model/Light Direction(Prop)
+
+[2025-07-28 16:58:20][Undo]OPParamModify:Root/Custom Model/Custom Model/Light Direction(Prop)
+
+[2025-07-28 16:58:27][OP]OPParamModify:Root/Custom Model/Custom Model/Diffusion(Prop)
+
+[2025-07-28 16:58:32][OP]OPParamModify:Root/Custom Model/Custom Model/Reflection Mode(Prop)
+
+[2025-07-28 16:58:40][Undo]OPParamModify:Root/Custom Model/Transform/Position(Prop)
+
+[2025-07-28 16:59:53]Project Setting Changed:_fps(Prop)
+
+[2025-07-28 16:59:53][OP]OPParamModify:Root/Project Settings/FPS(Prop)
+
+[2025-07-28 16:59:55]Project Setting Changed:_resolution_preset(Prop)
+
+[2025-07-28 16:59:55][OP]OPParamModify:Root/Project Settings/Ratio(Prop)
+
+[2025-07-28 16:59:58]Project Setting Changed:_preview_resolution(Prop)
+
+[2025-07-28 16:59:58][OP]OPParamModify:Root/Project Settings/Preview Resolution(Prop)
+
+[2025-07-28 17:00:16][OP]OPNewNode:_NewNode/_Text3D(Prop)
+
+[2025-07-28 17:00:44][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+[2025-07-28 17:01:12][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[2025-07-28 17:01:19][OP]OPParamModify:Root/Text 3D/Text 3D/Size(Prop)
+
+[2025-07-28 17:01:37][OP]OPNewMedia:Image(Prop)
+
+[2025-07-28 17:01:37]start saving project:Untitled(Prop)
+
+[2025-07-28 17:01:38]finished saving project, time cost:1,18
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+**************************
+[2025-07-28 17:01:54][OP]OPNewMedia:Audio(Prop)
+
+[2025-07-28 17:01:54]start saving project:Untitled(Prop)
+
+[2025-07-28 17:01:55]finished saving project, time cost:1,10
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+**************************
+[2025-07-28 17:02:01][OP]OPNewMedia:File(Prop)
+
+[2025-07-28 17:02:01]start saving project:Untitled(Prop)
+
+[2025-07-28 17:02:02]finished saving project, time cost:1,04
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+**************************
+[2025-07-28 17:02:14]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Medias/pickedMetal052C_2K-PNG_Roughness.png Width2048 Height2048(Prop)
+
+[2025-07-28 17:02:18][OP]OPChangeHierarchy:(Prop)
+
+[2025-07-28 17:02:23][OP]OPParamModify:Root/Custom Model/Custom Model/Type(Prop)
+
+[2025-07-28 17:02:25][OP]OPParamModify:Root/Custom Model/Custom Model/Light Direction(Prop)
+
+[2025-07-28 17:02:30][Undo]OPParamModify:Root/Custom Model/Custom Model/Type(Prop)
+
+[2025-07-28 17:02:32][Undo]OPParamModify:Root/Custom Model/Custom Model/Light Direction(Prop)
+
+[2025-07-28 17:02:36][OP]OPParamModify:Root/Custom Model/Custom Model/Model Texture(Prop)
+
+[2025-07-28 17:02:54][OP]OPParamModify:Root/Image/Transform/Position(Prop)
+
+[2025-07-28 17:02:55][Undo]OPParamModify:Root/Image/Transform/Position(Prop)
+
+[2025-07-28 17:03:07][OP]OPParamModify:Root/Custom Model/Custom Model/Diffusion(Prop)
+
+[2025-07-28 17:03:08][OP]OPParamModify:Root/Custom Model/Custom Model/Reflection(Prop)
+
+[2025-07-28 17:03:37][OP]OPTimeLineModify:Root(Prop)
+
+[2025-07-28 17:04:11][OP]OPNewNode:_NewNode/_Group(Prop)
+
+[2025-07-28 17:04:24][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Type(Prop)
+
+[2025-07-28 17:04:35][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Panoramic Texture(Prop)
+
+[2025-07-28 17:04:38][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Light Direction(Prop)
+
+[2025-07-28 17:04:40][Undo]OPParamModify:Root/Group/Text 3D/Text 3D/Light Direction(Prop)
+
+[2025-07-28 17:04:43][OP]OPParamModify:Root/Group/Text 3D/Transform/Position(Prop)
+
+[2025-07-28 17:04:47][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[2025-07-28 17:04:48][Undo]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[2025-07-28 17:04:49][Undo]OPParamModify:Root/Group/Text 3D/Transform/Position(Prop)
+
+[2025-07-28 17:04:58][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Diffusion(Prop)
+
+[2025-07-28 17:05:13][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Environment Texture(Prop)
+
+[2025-07-28 17:05:22][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Reflection(Prop)
+
+[2025-07-28 17:05:52][OP]OPNewProp:Root/Group:_NewProp/_AssetStore/_Shine/_Glow(Prop)
+
+[2025-07-28 17:05:56][OP]OPParamModify:Root/Group/Glow/Intensity(Prop)
+
+[2025-07-28 17:05:57][OP]OPParamModify:Root/Group/Glow/Threshold(Prop)
+
+[2025-07-28 17:05:58][OP]OPParamModify:Root/Group/Glow/Scattering(Prop)
+
+[2025-07-28 17:06:53][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Size(Prop)
+
+[2025-07-28 17:07:02][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Size(Curve)
+
+[2025-07-28 17:07:12][OP]OPParamModify:Root/Custom Model/Transform/Scale(Prop)
+
+[2025-07-28 17:07:13][OP]OPParamModify:Root/Custom Model/Transform/Position(Prop)
+
+[2025-07-28 17:07:46][Undo]OPParamModify:Root/Custom Model/Transform/Position(Prop)
+
+[2025-07-28 17:08:03][OP]OPParamModify:Root/Custom Model/Transform/Position(Curve)
+
+[2025-07-28 17:08:19][OP]OPParamModify:Root/Custom Model/Transform/Scale(Curve)
+
+[2025-07-28 17:10:08][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Face Color(Prop)
+
+[2025-07-28 17:10:12][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Color(Prop)
+
+[2025-07-28 17:10:15][Undo]OPParamModify:Root/Group/Text 3D/Text 3D/Color(Prop)
+
+[2025-07-28 17:10:17][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Side Color(Prop)
+
+[2025-07-28 17:10:29][OP]OPParamModify:Root/Custom Model/Custom Model/Tint(Prop)
+
+**************************
+[2025-07-28 19:00:00]start saving project:Untitled(Prop)
+
+[2025-07-28 19:00:02]finished saving project, time cost:1,44
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/3a181cca-c2a8-47fa-a4b9-eb05fd93f444(Prop)
+
+[2025-07-28 19:00:02]deleted unused media:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/3a181cca-c2a8-47fa-a4b9-eb05fd93f444/Medias/picked.png(Prop)
+
+[2025-07-28 19:00:02]deleted unused media:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/3a181cca-c2a8-47fa-a4b9-eb05fd93f444/Medias/pickedpicked456.png(Prop)
+
+[2025-07-28 19:00:02]deleted unused media:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/3a181cca-c2a8-47fa-a4b9-eb05fd93f444/Medias/pickedpicked735.png(Prop)
+
+[2025-07-28 19:00:02]deleted unused media:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/3a181cca-c2a8-47fa-a4b9-eb05fd93f444/Medias/pickedpicked915.png(Prop)
+
+[2025-07-28 19:00:02]Destroying Node in OPDeleteNode:Image1(Prop)
+
+[2025-07-28 19:00:05]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Untitled.nv(Home)
+
+[2025-07-28 19:00:06]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Medias/pickedMetal052C_2K-PNG_Roughness.png Width2048 Height2048(Home)
+
+[2025-07-28 19:00:16][OP]OPParamModify:Root/Custom Model/Custom Model/Tint(Prop)
+
+[2025-07-28 19:00:52][OP]OPNewMedia:File(Prop)
+
+[2025-07-28 19:00:53]finished saving project, time cost:1,32
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+**************************
+[2025-07-28 19:01:45]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Medias/pickedTX_DragonSlayer_BK2_MT01_Sword_Edge_Low_roughness.png Width2048 Height2048(Prop)
+
+[2025-07-28 19:01:50][OP]OPChangeHierarchy:(Prop)
+
+[2025-07-28 19:01:55][OP]OPParamModify:Root/Custom Model/Custom Model/Model Texture(Prop)
+
+[2025-07-28 19:02:08][OP]OPNewNode:_NewNode/_Fill/_Pattern/_SolidColor(Prop)
+
+[2025-07-28 19:02:09][OP]OPParamModify:Root/Solid Color/Solid Color/Color(Prop)
+
+[2025-07-28 19:02:33][OP]OPNewModel:(Prop)
+
+[2025-07-28 19:02:33]start saving project:Untitled(Prop)
+
+[2025-07-28 19:02:35]finished saving project, time cost:1,87
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+**************************
+[2025-07-28 19:02:42][OP]OPNewMedia:File(Prop)
+
+[2025-07-28 19:02:43]start saving project:Untitled(Prop)
+
+[2025-07-28 19:02:44]finished saving project, time cost:1,85
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+**************************
+[2025-07-28 19:03:40]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Medias/pickedTX_DragonSlayer_BK2_MT01_Sword_Edge_Low_diffuse.png Width2048 Height2048(Prop)
+
+[2025-07-28 19:03:45][OP]OPChangeHierarchy:(Prop)
+
+[2025-07-28 19:03:55][OP]OPParamModify:Root/Custom Model/Custom Model/Model Texture(Prop)
+
+[2025-07-28 19:04:34][OP]OPParamModify:Root/Custom Model/Transform/Rotation(Prop)
+
+[2025-07-28 19:04:37][Undo]OPParamModify:Root/Custom Model/Transform/Rotation(Prop)
+
+[2025-07-28 19:05:40][OP]OPParamModify:Root/Custom Model/Custom Model/Tint(Prop)
+
+[2025-07-28 19:06:29][OP]OPParamModify:Root/Custom Model/Transform/Position(Prop)
+
+[2025-07-28 19:06:51][Undo]OPParamModify:Root/Custom Model/Transform/Position(Prop)
+
+[2025-07-28 19:07:01][OP]OPParamModify:Root/Custom Model/Transform/Position(Curve)
+
+[2025-07-28 19:07:10][OP]OPParamModify:Root/Custom Model/Transform/Scale(Curve)
+
+[2025-07-28 19:07:32][OP]OPDeleteNode:Root/Image(Prop)
+
+[2025-07-28 19:07:37][OP]OPTimeLineModify:Root(Prop)
+
+[2025-07-28 19:07:53][OP]OPTimeLineModify:Root/Image1(Prop)
+
+[2025-07-28 19:07:57][Undo]OPTimeLineModify:Root/Image1(Prop)
+
+[2025-07-28 19:09:59][OP]OPParamModify:Root/Custom Model/Transform/Rotation(Curve)
+
+[2025-07-28 19:11:11][OP]OPNewProp:Root/Group/Text 3D:_NewProp/_TextEffect/_TextAnimation(Prop)
+
+[2025-07-28 19:11:13][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Evolution(Prop)
+
+[2025-07-28 19:11:22][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Type(Prop)
+
+[2025-07-28 19:11:34]Destroying Node in OPDeleteNode:Image(Prop)
+
+[2025-07-28 19:11:34][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Start Rot(Prop)
+
+[2025-07-28 19:11:47][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Axis(Prop)
+
+[2025-07-28 19:12:08][Undo]OPParamModify:Root/Group/Text 3D/Text Animation/Start Rot(Prop)
+
+[2025-07-28 19:12:18][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Start Rot(Curve)
+
+[2025-07-28 19:12:40][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Randomize(Prop)
+
+[2025-07-28 19:12:52][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Randomize(Curve)
+
+[2025-07-28 19:13:23][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Seed(Prop)
+
+[2025-07-28 19:18:07][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Color(Prop)
+
+[2025-07-28 19:18:17]start saving project:Untitled(Prop)
+
+[2025-07-28 19:18:19]finished saving project, time cost:2,26
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+[2025-07-28 19:18:29][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Style(Prop)
+
+[2025-07-28 19:19:16]Project Setting Changed:_export_resolution_preset(Export)
+
+[2025-07-28 19:19:22]Project Setting Changed:_preview_resolution(Prop)
+
+[2025-07-28 19:19:23][OP]OPParamModify:Root/Project Settings/Preview Resolution(Prop)
+
+[2025-07-28 19:20:03][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Start Pos(Prop)
+
+[2025-07-28 19:23:29][OP]OPParamModify:Root/Custom Model/Transform/Scale(Prop)
+
+[2025-07-28 19:25:45][OP]OPParamModify:Root/Group/Glow/Scattering(Prop)
+
+[2025-07-28 19:25:48][OP]OPParamModify:Root/Group/Glow/Threshold(Prop)
+
+[2025-07-28 19:25:50][OP]OPParamModify:Root/Group/Glow/Intensity(Prop)
+
+[2025-07-28 19:27:09][OP]OPDeleteNode:Root/Image1(Prop)
+
+[2025-07-28 19:27:25][OP]OPNewMedia:Video(Prop)
+
+[2025-07-28 19:27:28]finished saving project, time cost:2,36
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+**************************
+[2025-07-28 19:27:34]Video Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Medias/picked1000076705.mp4 Width1080 Height1080 Duration5,015011 Rotation0(Prop)
+
+[2025-07-28 19:27:34]Audio Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Medias/picked1000076705.mp4 Size:1mb(Prop)
+
+[2025-07-28 19:27:42][OP]OPChangeHierarchy:(Prop)
+
+[2025-07-28 19:27:50][OP]OPNewNode:_NewNode/_Group(Prop)
+
+**************************
+[2025-07-28 19:28:18]start saving project:Untitled(Prop)
+
+[2025-07-28 19:28:20]finished saving project, time cost:2,66
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+[2025-07-28 19:28:20]deleted unused media:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Medias/pickedMetal052C_2K-PNG_Roughness.png(Prop)
+
+[2025-07-28 19:28:20]deleted unused media:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Medias/pickedTX_DragonSlayer_BK2_MT01_Sword_Edge_Low_roughness.png(Prop)
+
+[2025-07-28 19:28:21]Destroying Node in OPDeleteNode:Image1(Prop)
+
+[2025-07-28 19:28:21][-----Error Received-----](Home)
+
+[2025-07-28 19:28:21]something wrong, fetch force to stop(Home)
+
+[2025-07-28 19:28:21]UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+NodeVideo.FetchManager:Update()
+(Home)
+
+[2025-07-28 19:28:21][------------------------](Home)
+
+[2025-07-28 19:28:23]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Untitled.nv(Home)
+
+[2025-07-28 19:28:25]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Medias/pickedTX_DragonSlayer_BK2_MT01_Sword_Edge_Low_diffuse.png Width2048 Height2048(Home)
+
+[2025-07-28 19:28:25]Video Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Medias/picked1000076705.mp4 Width1080 Height1080 Duration5,015011 Rotation0(Home)
+
+[2025-07-28 19:28:25]Audio Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Medias/picked1000076705.mp4 Size:1mb(Home)
+
+[2025-07-28 19:28:50][OP]OPSplitNode:Root/Group1/Video:0,4990175(Prop)
+
+[2025-07-28 19:28:51]Video Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Medias/picked1000076705.mp4 Width1080 Height1080 Duration5,015011 Rotation0(Prop)
+
+[2025-07-28 19:28:55][OP]OPDeleteNode:Root/Group1/Video(Prop)
+
+[2025-07-28 19:29:12][OP]OPNewProp:Root/Group1:_NewProp/_ColorCorrection/_UnsharpMask(Prop)
+
+[2025-07-28 19:29:15][OP]OPParamModify:Root/Group1/Unsharp Mask/Show Mask(Prop)
+
+[2025-07-28 19:29:18][OP]OPParamModify:Root/Group1/Unsharp Mask/Radius(Prop)
+
+[2025-07-28 19:29:25][OP]OPParamModify:Root/Group1/Unsharp Mask/Amount(Prop)
+
+[2025-07-28 19:29:31][OP]OPParamModify:Root/Group1/Unsharp Mask/Threshold(Prop)
+
+[2025-07-28 19:29:37]start saving project:Untitled(Export)
+
+[2025-07-28 19:29:39]finished saving project, time cost:2,47
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Export)
+
+**************************
+[2025-07-28 19:30:13][export finished](Export)
+
+[2025-07-28 19:30:22]start saving project:Untitled(Prop)
+
+[2025-07-28 19:30:28]finished saving project, time cost:6,17
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+**************************
+[2025-07-28 19:37:16][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[2025-07-28 19:37:21]Destroying Node in OPDeleteNode:Video(Prop)
+
+[2025-07-28 19:37:49][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Seed(Prop)
+
+[2025-07-28 19:38:06]start saving project:Untitled(Export)
+
+[2025-07-28 19:38:09]finished saving project, time cost:2,65
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Export)
+
+**************************
+[2025-07-28 19:38:45][export finished](Export)
+
+[2025-07-28 19:38:59]start saving project:Untitled(Prop)
+
+[2025-07-28 19:39:07]finished saving project, time cost:8,57
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+**************************
+[2025-07-28 19:41:10][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[2025-07-28 19:41:19][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Face Color(Prop)
+
+[2025-07-28 19:41:34][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Side Color(Prop)
+
+[2025-07-28 19:41:40][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Color(Prop)
+
+[2025-07-28 19:42:22][Undo]OPParamModify:Root/Group/Text 3D/Text 3D/Side Color(Prop)
+
+[2025-07-28 19:43:02]start saving project:Untitled(Prop)
+
+[2025-07-28 19:43:12]finished saving project, time cost:10,39
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+**************************
+**************************
+[2025-07-28 19:43:16]start saving project:Untitled(Prop)
+
+[2025-07-28 19:43:19]finished saving project, time cost:2,96
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+[2025-07-28 19:43:22]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Untitled.nv(Home)
+
+[2025-07-28 19:43:25]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Medias/pickedTX_DragonSlayer_BK2_MT01_Sword_Edge_Low_diffuse.png Width2048 Height2048(Home)
+
+[2025-07-28 19:43:25]Video Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Medias/picked1000076705.mp4 Width1080 Height1080 Duration5,015011 Rotation0(Home)
+
+[2025-07-28 19:43:26]Audio Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9/Medias/picked1000076705.mp4 Size:1mb(Home)
+
+[2025-07-28 19:43:33]start saving project:Untitled(Export)
+
+[2025-07-28 19:43:35]finished saving project, time cost:2,39
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Export)
+
+**************************
+[2025-07-28 19:44:08][export finished](Export)
+
+[2025-07-28 19:44:12]start saving project:Untitled(Prop)
+
+[2025-07-28 19:44:17]finished saving project, time cost:5,12
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/48a32b63-24f7-4b2f-91bf-0d287bf555b9(Prop)
+
+**************************
+**************************
+[2025-08-28 21:32:04]App Started:App Version:7.5.2|DeviceModel:vivo V2403A|OS:Android OS 15 / API-35 (AP3A.240905.015.A1/compiler07120125)|GraphicsDevice:Adreno (TM) 750|DeviceStr:61c64a4df5e6deae601150d61162df16(Prop)
+
+[2025-08-28 21:32:04]Universal(Prop)
+
+[2025-08-28 21:32:49]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7/berserk slayer.nv(Home)
+
+[2025-08-28 21:32:49]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7/Medias/pickedTX_DragonSlayer_BK2_MT01_Sword_Edge_Low_diffuse.png Width2048 Height2048(Home)
+
+[2025-08-28 21:32:50]Video Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7/Medias/picked1000076705.mp4 Width1080 Height1080 Duration5,015011 Rotation0(Home)
+
+[2025-08-28 21:32:50]Audio Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7/Medias/picked1000076705.mp4 Size:1mb(Home)
+
+[2025-08-28 21:33:04][OP]OPDeleteNode:Root/Custom Model(Prop)
+
+[2025-08-28 21:33:07][OP]OPDeleteNode:Root/Image2(Prop)
+
+[2025-08-28 21:33:12][OP]OPDeleteNode:Root/Group1(Prop)
+
+[2025-08-28 21:33:19][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Face Color(Prop)
+
+[2025-08-28 21:33:21][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Side Color(Prop)
+
+[2025-08-28 21:33:34][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Environment Texture(Prop)
+
+[2025-08-28 21:33:46][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Type(Prop)
+
+[2025-08-28 21:33:48][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Matcap Texture(Prop)
+
+[2025-08-28 21:34:00][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[2025-08-28 21:34:02]Destroying Node in OPDeleteNode:Custom Model(Prop)
+
+[2025-08-28 21:34:02]Destroying Node in OPDeleteNode:Image2(Prop)
+
+[2025-08-28 21:34:03]Destroying Node in OPDeleteNode:Group1(Prop)
+
+[2025-08-28 21:34:27][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Color(Prop)
+
+[2025-08-28 21:34:52][OP]OPNewMedia:Video(Prop)
+
+[2025-08-28 21:34:52]start saving project:berserk slayer(Prop)
+
+[2025-08-28 21:34:52]finished saving project, time cost:0,38
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7(Prop)
+
+**************************
+[2025-08-28 21:34:54]Video Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7/Medias/picked1000033788.mp4 Width1080 Height1920 Duration7,05 Rotation0(Prop)
+
+[2025-08-28 21:34:54]Audio Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7/Medias/picked1000033788.mp4 Size:2mb(Prop)
+
+[2025-08-28 21:35:00][Undo]OPNewMedia:Video(Prop)
+
+[2025-08-28 21:35:01][Redo]OPNewMedia:Video(Prop)
+
+[2025-08-28 21:35:05][OP]OPParamModify:Root/Video/Transform/Scale(Prop)
+
+[2025-08-28 21:35:09][OP]OPNewProp:Root/Solid Color:_NewProp/_Effect/3D/_Extruder(Prop)
+
+[2025-08-28 21:35:22][Undo]OPNewProp:Root/Solid Color:_NewProp/_Effect/3D/_Extruder(Prop)
+
+[2025-08-28 21:35:27][Undo]OPParamModify:Root/Video/Transform/Scale(Prop)
+
+[2025-08-28 21:35:50][OP]OPParamModify:Root/Video/Transform/Position(Prop)
+
+[2025-08-28 21:35:56][Undo]OPParamModify:Root/Video/Transform/Position(Prop)
+
+[2025-08-28 21:36:03][-----Error Received-----](Prop)
+
+[2025-08-28 21:36:03]NullReferenceException: Object reference not set to an instance of an object.(Prop)
+
+[2025-08-28 21:36:03]UnityEngine.UI.InputField.LateUpdate () (at <00000000000000000000000000000000>:0)
+(Prop)
+
+[2025-08-28 21:36:03][------------------------](Prop)
+
+[2025-08-28 21:36:06][OP]OPNewNode:_NewNode/_Group(Prop)
+
+[2025-08-28 21:36:10][OP]OPChangeHierarchy:(Prop)
+
+[2025-08-28 21:36:15][OP]OPNewProp:Root/Group1:_NewProp/_Mask/_ChromaKey(Prop)
+
+[2025-08-28 21:36:25][OP]OPParamModify:Root/Group1/Video/Transform/Position(Prop)
+
+[2025-08-28 21:36:34][OP]OPParamModify:Root/Group1/Video/Transform/Scale(Prop)
+
+[2025-08-28 21:36:59][OP]OPMoveTimeLine:Root:2->2(Prop)
+
+[2025-08-28 21:37:00][OP]OPTimeLineModify:Root/Solid Color(Prop)
+
+[2025-08-28 21:37:02][OP]OPTimeLineModify:Root/Group(Prop)
+
+[2025-08-28 21:37:05][OP]OPMoveTimeLine:Root:0->0(Prop)
+
+[2025-08-28 21:37:07][Undo]OPTimeLineModify:Root/Solid Color(Prop)
+
+[2025-08-28 21:37:08][Undo]OPTimeLineModify:Root/Group(Prop)
+
+[2025-08-28 21:37:33][OP]OPTimeLineModify:Root/Group1(Prop)
+
+[2025-08-28 21:38:13][OP]OPDeleteProp:Root/Group1/Video:Audio(Prop)
+
+[2025-08-28 21:38:28][Undo]OPParamModify:Root/Group1/Video/Transform/Position(Prop)
+
+[2025-08-28 21:38:33][OP]OPNewProp:Root/Group1/Video:_NewProp/_Effect/3D/_Extruder(Prop)
+
+[2025-08-28 21:38:41][OP]OPParamModify:Root/Group1/Chroma Key/Green Color(Prop)
+
+[2025-08-28 21:38:49][Undo]OPParamModify:Root/Group1/Chroma Key/Green Color(Prop)
+
+[2025-08-28 21:38:51][Undo]OPNewProp:Root/Group1/Video:_NewProp/_Effect/3D/_Extruder(Prop)
+
+[2025-08-28 21:38:58]start saving project:berserk slayer(Prop)
+
+[2025-08-28 21:38:58]finished saving project, time cost:0,41
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7(Prop)
+
+**************************
+[2025-08-28 21:40:25][OP]OPParamModify:Root/Group1/Video/Transform/Position(Prop)
+
+[2025-08-28 21:40:26][Undo]OPParamModify:Root/Group1/Video/Transform/Position(Prop)
+
+[2025-08-28 21:40:44][OP]OPParamModify:Root/Group1/Video/Transform/Link To(Prop)
+
+[2025-08-28 21:40:54][Undo]OPParamModify:Root/Group1/Video/Transform/Link To(Prop)
+
+[2025-08-28 21:40:57][Redo]OPParamModify:Root/Group1/Video/Transform/Link To(Prop)
+
+[2025-08-28 21:40:58][Undo]OPDeleteProp:Root/Group1/Video:Audio(Prop)
+
+[2025-08-28 21:40:58]Video Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7/Medias/picked1000033788.mp4 Width1080 Height1920 Duration7,05 Rotation0(Prop)
+
+[2025-08-28 21:40:58]Audio Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7/Medias/picked1000033788.mp4 Size:2mb(Prop)
+
+[2025-08-28 21:41:00][Undo]OPTimeLineModify:Root/Group1(Prop)
+
+[2025-08-28 21:41:02][Redo]OPTimeLineModify:Root/Group1(Prop)
+
+[2025-08-28 21:41:03][Redo]OPDeleteProp:Root/Group1/Video:Audio(Prop)
+
+[2025-08-28 21:41:39][OP]OPMoveTimeLine:Root/Group1:0->0(Prop)
+
+[2025-08-28 21:41:45][OP]OPMoveTimeLine:Root:1->1(Prop)
+
+[2025-08-28 21:41:58][OP]OPTimeLineModify:Root/Group(Prop)
+
+[2025-08-28 21:42:11][OP]OPMoveTimeLine:Root:0->-134(Prop)
+
+[2025-08-28 21:42:11][-----Error Received-----](Prop)
+
+[2025-08-28 21:42:11]ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index(Prop)
+
+[2025-08-28 21:42:11]System.Collections.Generic.List`1[T].get_Item (System.Int32 index) (at <00000000000000000000000000000000>:0)
+NodeVideo.Extension.Swap[T] (System.Collections.Generic.IList`1[T] list, System.Int32 indexA, System.Int32 indexB) (at <00000000000000000000000000000000>:0)
+NodeVideo.Extension.SwapBubble[T] (System.Collections.Generic.IList`1[T] list, System.Int32 indexA, System.Int32 indexB) (at <00000000000000000000000000000000>:0)
+NodeVideo.Operation.OPMoveTimeLine.Update () (at <00000000000000000000000000000000>:0)
+NodeVideo.Operation.OPManager.Update () (at <00000000000000000000000000000000>:0)
+(Prop)
+
+[2025-08-28 21:42:11][------------------------](Prop)
+
+[2025-08-28 21:42:18][OP]OPTimeLineModify:Root/Group1/Video(Prop)
+
+[2025-08-28 21:42:42][OP]OPTimeLineModify:Root/Solid Color(Prop)
+
+[2025-08-28 21:42:43][Undo]OPTimeLineModify:Root/Solid Color(Prop)
+
+[2025-08-28 21:43:36][OP]OPParamModify:Root/Group1/Video/Transform/Position(Curve)
+
+[2025-08-28 21:44:36][OP]OPNewProp:Root/Group/Text 3D:_NewProp/_Mask/_ShapeMask(Prop)
+
+[2025-08-28 21:44:48][OP]OPParamModify:Root/Group/Text 3D/Shape Mask/Shape Type(Prop)
+
+[2025-08-28 21:44:50][OP]OPParamModify:Root/Group/Text 3D/Shape Mask/Rotation(Prop)
+
+[2025-08-28 21:45:04][OP]OPDeleteProp:Root/Group/Text 3D:Shape Mask(Prop)
+
+[2025-08-28 21:45:12][OP]OPNewProp:Root/Group:_NewProp/_Mask/_ShapeMask(Prop)
+
+[2025-08-28 21:45:14][OP]OPParamModify:Root/Group/Shape Mask/Shape Type(Prop)
+
+[2025-08-28 21:45:16][OP]OPParamModify:Root/Group/Shape Mask/Rotation(Prop)
+
+[2025-08-28 21:45:20][OP]OPParamModify:Root/Group/Shape Mask/Center(Prop)
+
+[2025-08-28 21:45:39][Undo]OPParamModify:Root/Group/Shape Mask/Center(Prop)
+
+[2025-08-28 21:45:52][OP]OPDeleteProp:Root/Group:Shape Mask(Prop)
+
+[2025-08-28 21:45:54][Undo]OPDeleteProp:Root/Group:Shape Mask(Prop)
+
+[2025-08-28 21:45:56][Redo]OPDeleteProp:Root/Group:Shape Mask(Prop)
+
+[2025-08-28 21:46:03][Undo]OPParamModify:Root/Group/Shape Mask/Rotation(Prop)
+
+[2025-08-28 21:46:04][Undo]OPParamModify:Root/Group/Shape Mask/Shape Type(Prop)
+
+[2025-08-28 21:46:05][Undo]OPNewProp:Root/Group:_NewProp/_Mask/_ShapeMask(Prop)
+
+[2025-08-28 21:46:06][Undo]OPDeleteProp:Root/Group/Text 3D:Shape Mask(Prop)
+
+[2025-08-28 21:46:17][OP]OPNewProp:Root/Group:_NewProp/_AssetStore/_Displacement/_Dissolve(Prop)
+
+[2025-08-28 21:46:25][OP]OPParamModify:Root/Group/Dissolve/Direction(Prop)
+
+[2025-08-28 21:46:44][OP]OPParamModify:Root/Group/Dissolve/Interpolation(Prop)
+
+[2025-08-28 21:47:05][OP]OPParamModify:Root/Group/Dissolve/Inverse(Prop)
+
+[2025-08-28 21:47:17]start saving project:berserk slayer(Prop)
+
+[2025-08-28 21:47:18]finished saving project, time cost:0,58
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7(Prop)
+
+**************************
+[2025-08-28 21:53:45]App Started:App Version:7.5.2|DeviceModel:vivo V2403A|OS:Android OS 15 / API-35 (AP3A.240905.015.A1/compiler07120125)|GraphicsDevice:Adreno (TM) 750|DeviceStr:61c64a4df5e6deae601150d61162df16(Prop)
+
+[2025-08-28 21:53:45]Universal(Prop)
+
+[2025-08-28 21:53:49]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7/berserk slayer.nv(Home)
+
+[2025-08-28 21:53:49]deleted unused media:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7/Medias/picked1000076705.mp4(Home)
+
+[2025-08-28 21:53:49]deleted unused media:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7/Medias/pickedTX_DragonSlayer_BK2_MT01_Sword_Edge_Low_diffuse.png(Home)
+
+[2025-08-28 21:53:49]deleted unused model:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7/Models/model_M6_1_Re_SpaceScle_InGroup_DragonSlayer_v1.0.3.obj(Home)
+
+[2025-08-28 21:53:50]Video Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7/Medias/picked1000033788.mp4 Width1080 Height1920 Duration7,05 Rotation0(Home)
+
+[2025-08-28 21:53:53][OP]OPDeleteNode:Root/Group1(Prop)
+
+[2025-08-28 21:54:00][OP]OPMoveTimeLine:Root:0->0(Prop)
+
+[2025-08-28 21:54:03][OP]OPMoveTimeLine:Root:0->1(Prop)
+
+[2025-08-28 21:54:07][OP]OPTimeLineModify:Root/Group(Prop)
+
+[2025-08-28 21:54:07][OP]OPMoveTimeLine:Root:1->1(Prop)
+
+[2025-08-28 21:54:09][OP]OPTimeLineModify:Root/Solid Color(Prop)
+
+[2025-08-28 21:54:20][OP]OPDeleteProp:Root/Group/Text 3D:Shape Mask(Prop)
+
+[2025-08-28 21:54:23][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Face Color(Prop)
+
+[2025-08-28 21:54:28][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Side Color(Prop)
+
+[2025-08-28 21:55:12]start saving project:berserk slayer(Prop)
+
+[2025-08-28 21:55:12]finished saving project, time cost:0,33
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7(Prop)
+
+**************************
+[2025-08-28 21:55:27][OP]OPDuplicateNode:Root/Group(Prop)
+
+[2025-08-28 21:55:34][OP]OPDeleteProp:Root/Group:Glow(Prop)
+
+[2025-08-28 21:55:39]Destroying Node in OPDeleteNode:Group1(Prop)
+
+[2025-08-28 21:55:39][OP]OPDeleteProp:Root/Group:Dissolve(Prop)
+
+[2025-08-28 21:55:53][OP]OPNewProp:Root/Group:_NewProp/_AssetStore/_Distort/_TurbulentDistortion(Prop)
+
+[2025-08-28 21:55:56][OP]OPDeleteProp:Root/Group:Turbulent Distortion(Prop)
+
+[2025-08-28 21:56:02][OP]OPChangeHierarchy:(Prop)
+
+[2025-08-28 21:56:10][OP]OPLoadPreset:Root/Group:1:Turbulent Distortion(Prop)
+
+[2025-08-28 21:56:17][OP]OPNewProp:Root/Group:_NewProp/_AssetStore/_Distort/_WaveWarp(Prop)
+
+[2025-08-28 21:56:19][OP]OPDeleteProp:Root/Group:Wave Warp(Prop)
+
+[2025-08-28 21:56:21][Undo]OPDeleteProp:Root/Group:_Effect/_AssetStore/_Distort/_WaveWarp(Prop)
+
+[2025-08-28 21:56:23][OP]OPLoadPreset:Root/Group:2:Wave Warp(Prop)
+
+[2025-08-28 21:56:33][OP]OPLoadPreset:Root/Group:3:Wave Warp(Prop)
+
+[2025-08-28 21:56:36][OP]OPParamModify:Root/Group/Wave Warp/Direction(Prop)
+
+[2025-08-28 21:56:57][OP]OPNewProp:Root/Group:_NewProp/_AssetStore/_Distort/_Squeeze(Prop)
+
+[2025-08-28 21:57:00][OP]OPLoadPreset:Root/Group:4:Squeeze(Prop)
+
+[2025-08-28 21:57:13][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Face Color(Prop)
+
+[2025-08-28 21:57:21][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Color(Prop)
+
+[2025-08-28 21:57:51][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Bevel(Prop)
+
+[2025-08-28 21:58:02][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[2025-08-28 21:58:35]start saving project:berserk slayer(Export)
+
+[2025-08-28 21:58:36]finished saving project, time cost:0,63
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7(Export)
+
+**************************
+[2025-08-28 21:58:45][export finished](Export)
+
+[2025-08-28 21:58:46]start saving project:berserk slayer(Prop)
+
+[2025-08-28 21:58:47]finished saving project, time cost:0,54
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7(Prop)
+
+**************************
+[2025-08-28 22:00:43][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[2025-08-28 22:00:59]start saving project:berserk slayer(Export)
+
+[2025-08-28 22:01:00]finished saving project, time cost:0,65
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7(Export)
+
+**************************
+[2025-08-28 22:01:09][export finished](Export)
+
+[2025-08-28 22:01:11]start saving project:berserk slayer(Prop)
+
+[2025-08-28 22:01:12]finished saving project, time cost:0,54
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7(Prop)
+
+**************************
+**************************
+[2025-08-29 17:48:44]start saving project:wwhhoo(Prop)
+
+[2025-08-29 17:48:45]finished saving project, time cost:0,73
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/8683f07f-a8e0-4102-8ebc-a456d4a04c4f(Prop)
+
+[2025-08-29 17:48:58]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7/berserk slayer.nv(Home)
+
+**************************
+[2025-08-29 19:57:02]start saving project:govno sobachee(Prop)
+
+[2025-08-29 19:57:02]finished saving project, time cost:0,52
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/525d9a22-65ab-4733-98e1-b366028735ef(Prop)
+
+[2025-08-29 19:57:08]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7/soso blue.nv(Home)
+
+**************************
+[2025-08-29 19:57:10]start saving project:soso blue(Prop)
+
+[2025-08-29 19:57:11]finished saving project, time cost:0,61
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d488b17c-70c4-4885-9ea7-c9d02efaefc7(Prop)
+
+[2025-08-29 19:57:20]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6f904b2a-df2e-45fa-b7a9-ab3c9649cb7e/soso blue.nv(Home)
+
+[2025-08-29 19:57:32][OP]OPNewMedia:Image(Prop)
+
+[2025-08-29 19:57:32]finished saving project, time cost:0,58
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6f904b2a-df2e-45fa-b7a9-ab3c9649cb7e(Prop)
+
+**************************
+[2025-08-29 19:57:34]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6f904b2a-df2e-45fa-b7a9-ab3c9649cb7e/Medias/picked1000033872.png Width475 Height475(Prop)
+
+[2025-08-29 19:57:44][OP]OPNewProp:Root/Image:_NewProp/_Effect/3D/_Extruder(Prop)
+
+[2025-08-29 19:57:47][OP]OPParamModify:Root/Image/Transform/Position(Prop)
+
+[2025-08-29 19:58:06][OP]OPParamModify:Root/Image/Transform/Scale(Prop)
+
+[2025-08-29 19:58:22][OP]OPTimeLineModify:Root/Image(Prop)
+
+[2025-08-29 19:59:06][OP]OPParamModify:Root/Image/Transform/Rotation(Prop)
+
+[2025-08-29 19:59:38][OP]OPParamModify:Root/Image/Transform/Rotation(Curve)
+
+[2025-08-29 19:59:43][OP]OPParamModify:Root/Image/Transform/Scale(Curve)
+
+[2025-08-29 19:59:47][OP]OPParamModify:Root/Image/Transform/Position(Curve)
+
+[2025-08-29 20:00:04][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Face Color(Prop)
+
+[2025-08-29 20:00:06][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Side Color(Prop)
+
+[2025-08-29 20:00:16][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Color(Prop)
+
+[2025-08-29 20:00:48]start saving project:soso blue(Export)
+
+[2025-08-29 20:00:48]finished saving project, time cost:0,70
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6f904b2a-df2e-45fa-b7a9-ab3c9649cb7e(Export)
+
+**************************
+[2025-08-29 20:00:56][export finished](Export)
+
