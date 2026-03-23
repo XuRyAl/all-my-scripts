@@ -1,0 +1,72 @@
+local Lib = loadstring(game:HttpGet("..."))() -- или require(script)
+-- В LocalScript достаточно скопировать библиотеку выше и:
+
+local Win = Lib:CreateWindow({
+    Title    = "My Script",
+    Size     = UDim2.new(0, 520, 0, 420),
+})
+
+local Main = Win:AddTab("Главная")
+local Misc = Win:AddTab("Прочее")
+
+Main:AddSection("Персонаж")
+
+Main:AddToggle({
+    Name     = "Бесконечный прыжок",
+    Default  = false,
+    Callback = function(v)
+        print("Прыжок:", v)
+    end,
+})
+
+Main:AddSlider({
+    Name     = "Скорость",
+    Min      = 16, Max = 300, Default = 16,
+    Suffix   = " st/s",
+    Callback = function(v)
+        game.Players.LocalPlayer.Character
+            .Humanoid.WalkSpeed = v
+    end,
+})
+
+Main:AddButton({
+    Name     = "Телепорт на спавн",
+    Callback = function()
+        print("Телепорт!")
+    end,
+})
+
+Main:AddDropdown({
+    Name     = "Команда",
+    Items    = { "BrightRed", "BrightBlue", "Neutral" },
+    Default  = "Neutral",
+    Callback = function(v) print("Выбрано:", v) end,
+})
+
+Misc:AddSection("Интерфейс")
+
+Misc:AddColorPicker({
+    Name     = "Цвет чат-метки",
+    Default  = Color3.fromRGB(110, 85, 230),
+    Callback = function(c) print(c) end,
+})
+
+Misc:AddKeybind({
+    Name     = "Открыть меню",
+    Default  = Enum.KeyCode.RightShift,
+    Callback = function() print("Открыто!") end,
+})
+
+Misc:AddTextBox({
+    Name        = "Ник игрока",
+    Placeholder = "Введите ник...",
+    Callback    = function(t) print("Ник:", t) end,
+})
+
+-- Уведомления
+Lib:Notify({
+    Title    = "Готово",
+    Message  = "Скрипт загружен успешно!",
+    Type     = "Success",
+    Duration = 4,
+})
