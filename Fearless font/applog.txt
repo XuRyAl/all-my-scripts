@@ -1,0 +1,1023 @@
+Project Log:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/2a98baa0-dd2c-43b2-956f-f21b7172fb87/applog.txt
+**************************
+[13:37:27]start saving project:Untitled(Prop)
+
+[13:37:27]finished saving project, time cost:0,21
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/5c541aa2-7944-4fe4-a4a4-e25a9204a827(Prop)
+
+[13:37:28]New Project(Home)
+
+[13:37:28]start saving project:Untitled(Home)
+
+[13:37:28]finished saving project, time cost:0,12
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/2a98baa0-dd2c-43b2-956f-f21b7172fb87(Home)
+
+[13:37:31][OP]OPNewNode:_NewNode/_Group(Prop)
+
+[13:37:36][OP]OPNewNode:_NewNode/_Text3D(Prop)
+
+[13:37:40][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[13:37:42][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[13:37:50][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Size(Prop)
+
+[13:38:04][OP]OPNewMedia:Image(Prop)
+
+[13:38:04]finished saving project, time cost:0,30
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/2a98baa0-dd2c-43b2-956f-f21b7172fb87(Prop)
+
+**************************
+[13:38:09]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/2a98baa0-dd2c-43b2-956f-f21b7172fb87/Medias/picked1000006437.jpg Width736 Height736(Prop)
+
+[13:38:09]Project Setting Changed:_resolution_preset(Prop)
+
+[13:38:15][OP]OPChangeHierarchy:(Prop)
+
+[13:38:22][OP]OPDeleteNode:Root/Group/Image(Prop)
+
+[13:38:30][OP]OPParamModify:Root/Project Settings/Ratio(Prop)
+
+[13:38:34][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Type(Prop)
+
+[13:38:37][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Light Direction(Prop)
+
+[13:38:48]Destroying Node in OPDeleteNode:Image(Prop)
+
+[13:38:48][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Face Color(Prop)
+
+[13:39:01][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Side Color(Prop)
+
+[13:39:06][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Style(Prop)
+
+[13:39:07][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Bevel(Prop)
+
+[13:39:10][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Color(Prop)
+
+[13:39:20][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[13:39:29][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Spacing(Prop)
+
+[13:39:43][OP]OPTimeLineModify:Root/Group/Text 3D(Prop)
+
+[13:39:50][OP]OPDuplicateNode:Root/Group/Text 3D(Prop)
+
+[13:39:52][OP]OPDeleteNode:Root/Group/Text 3D(Prop)
+
+[13:39:53][Undo]OPDeleteNode:Root/Group/Text 3D(Prop)
+
+[13:40:11][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[13:40:29][OP]OPParamModify:Root/Group/Text 3D/Transform/Position(Prop)
+
+[13:40:44]Destroying Node in OPDeleteNode:Text 3D(Prop)
+
+[13:42:27][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[13:44:18][OP]OPNewProp:Root/Group:_NewProp/_AssetStore/_Shine/_Glow(Prop)
+
+[13:44:25][OP]OPParamModify:Root/Group/Glow/Preserve Alpha(Prop)
+
+[13:44:27][OP]OPParamModify:Root/Group/Glow/Glow Color(Prop)
+
+[13:44:33][OP]OPParamModify:Root/Group/Glow/Threshold(Prop)
+
+[13:44:54][OP]OPNewProp:Root/Group:_NewProp/_Fill/_Procedural/_IceCaustics(Prop)
+
+[13:44:56][Undo]OPNewProp:Root/Group:_NewProp/_Fill/_Procedural/_IceCaustics(Prop)
+
+[13:45:00][OP]OPNewProp:Root/Group:_NewProp/_2DAnimation/_PolygonDeform(Prop)
+
+[13:45:05][OP]OPParamModify:Root/Group/Polygon Deform/Points(Prop)
+
+[13:45:12][OP]OPParamModify:Root/Group/Polygon Deform/point0(Prop)
+
+[13:45:17][OP]OPParamModify:Root/Group/Polygon Deform/Center(Prop)
+
+[13:45:19][OP]OPParamModify:Root/Group/Polygon Deform/Scale(Prop)
+
+[13:45:20][OP]OPParamModify:Root/Group/Polygon Deform/Rotation(Prop)
+
+[13:45:21][Undo]OPParamModify:Root/Group/Polygon Deform/Rotation(Prop)
+
+[13:45:21][Undo]OPParamModify:Root/Group/Polygon Deform/Scale(Prop)
+
+[13:45:21][Undo]OPParamModify:Root/Group/Polygon Deform/Center(Prop)
+
+[13:45:22][Undo]OPParamModify:Root/Group/Polygon Deform/point0(Prop)
+
+[13:45:22][Undo]OPParamModify:Root/Group/Polygon Deform/Points(Prop)
+
+[13:45:23][Undo]OPNewProp:Root/Group:_NewProp/_2DAnimation/_PolygonDeform(Prop)
+
+[13:45:34][OP]OPNewProp:Root/Group:_NewProp/_AssetStore/_RGB/_RGBDisplacement(Prop)
+
+[13:45:36][Undo]OPNewProp:Root/Group:_NewProp/_AssetStore/_RGB/_RGBDisplacement(Prop)
+
+[13:45:43][OP]OPParamModify:Root/Group/Glow/Intensity(Prop)
+
+[13:46:10]start saving project:Untitled(Export)
+
+[13:46:11]finished saving project, time cost:0,78
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/2a98baa0-dd2c-43b2-956f-f21b7172fb87(Export)
+
+**************************
+[13:46:18]Project Setting Changed:_fps(Export)
+
+[13:46:23]Project Setting Changed:_export_resolution_preset(Export)
+
+[13:46:25]start saving project:Untitled(Export)
+
+[13:46:26]finished saving project, time cost:0,94
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/2a98baa0-dd2c-43b2-956f-f21b7172fb87(Export)
+
+**************************
+[13:46:45][export finished](Export)
+
+[13:46:48]start saving project:Untitled(Prop)
+
+[13:46:51]finished saving project, time cost:3,27
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/2a98baa0-dd2c-43b2-956f-f21b7172fb87(Prop)
+
+**************************
+[13:48:21]App Started:DeviceModel:Xiaomi 22101320G|OS:Android OS 14 / API-34 (UKQ1.231003.002/V816.0.4.0.UMSMIXM)|SysMem:7190|GPUMem:7446|GraphicsDevice:Adreno (TM) 642L|ShaderLevel:50
+DeviceStr:5ef633b2932d39c15264a5023d725378(Prop)
+
+[13:48:21]Universal(Prop)
+
+[13:48:26]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/2a98baa0-dd2c-43b2-956f-f21b7172fb87/Untitled.nv(Home)
+
+[13:48:29]start saving project:Untitled(Prop)
+
+[13:48:32]finished saving project, time cost:3,66
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/2a98baa0-dd2c-43b2-956f-f21b7172fb87(Prop)
+
+**************************
+[17:05:18]App Started:DeviceModel:Xiaomi 22101320G|OS:Android OS 14 / API-34 (UKQ1.231003.002/V816.0.4.0.UMSMIXM)|SysMem:7190|GPUMem:7446|GraphicsDevice:Adreno (TM) 642L|ShaderLevel:50
+DeviceStr:5ef633b2932d39c15264a5023d725378(Prop)
+
+[17:05:18]Universal(Prop)
+
+[17:05:23]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/2a98baa0-dd2c-43b2-956f-f21b7172fb87/Untitled.nv(Home)
+
+**************************
+[08:49:08]start saving project:3d like yaniksksks (Prop)
+
+[08:49:09]finished saving project, time cost:1.41
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/3755be3e-4cda-4f4b-ad3d-9c1b006fdbc5(Prop)
+
+[08:49:14]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0/3d outro daddy.nv(Home)
+
+[08:49:16]patching for data version:1.5.8(Home)
+
+**************************
+[20:38:52]App Started:DeviceModel:samsung SM-A235F|OS:Android OS 14 / API-34 (UP1A.231005.007/A235FXXS7EXH1)|SysMem:5578|GPUMem:5834|GraphicsDevice:Adreno (TM) 610|ShaderLevel:50
+DeviceStr:5d63360bfabb1b278d1a5396eb7dc507(Prop)
+
+[20:38:52]Universal(Prop)
+
+[20:39:02]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0/3d outro daddy.nv(Home)
+
+[20:39:24][OP]OPParamModify:Root/Group/Text 3D/Transform/Position(Prop)
+
+[20:39:28][Undo]OPParamModify:Root/Group/Text 3D/Transform/Position(Prop)
+
+[20:40:25][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[20:40:37][Undo]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[20:41:16][OP]OPParamModify:Root/Group/Glow/Threshold(Prop)
+
+[20:41:21][Undo]OPParamModify:Root/Group/Glow/Threshold(Prop)
+
+[20:45:33][OP]OPParamModify:Root/Group/Text 3D/Transform/Position(Curve)
+
+[20:45:53][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Curve)
+
+[20:48:42][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[20:48:46][Undo]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[20:50:25][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Face Color(Prop)
+
+[20:51:11]Project Setting Changed:_preview_resolution(Prop)
+
+[20:51:11][OP]OPParamModify:Root/Project Settings/Preview Resolution(Prop)
+
+[20:51:25][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[20:51:35][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Size(Prop)
+
+[20:51:36][Undo]OPParamModify:Root/Group/Text 3D/Text 3D/Size(Prop)
+
+[20:51:47][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Spacing(Prop)
+
+[20:51:49][Undo]OPParamModify:Root/Group/Text 3D/Text 3D/Spacing(Prop)
+
+[20:52:25][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Light Direction(Prop)
+
+[20:52:34][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Light Direction(Curve)
+
+[20:52:48][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Spacing(Curve)
+
+[20:55:49][OP]OPParamModify:Root/Group/Glow/Glow Color(Prop)
+
+[20:56:03][OP]OPNewProp:Root/Group:_NewProp/_AssetStore/_Shine/_GlowScan(Prop)
+
+[20:56:05][OP]OPParamModify:Root/Group/Glow Scan/Threshold(Prop)
+
+[20:56:07][OP]OPParamModify:Root/Group/Glow Scan/Glow Color(Prop)
+
+[20:56:34][OP]OPParamModify:Root/Group/Glow Scan/Channel(Prop)
+
+[20:56:36][Undo]OPParamModify:Root/Group/Glow Scan/Channel(Prop)
+
+[20:56:37][OP]OPParamModify:Root/Group/Glow Scan/Radius(Prop)
+
+[20:56:39][Undo]OPParamModify:Root/Group/Glow Scan/Radius(Prop)
+
+[20:56:41][OP]OPParamModify:Root/Group/Glow Scan/Scattering(Prop)
+
+[20:56:44][Undo]OPParamModify:Root/Group/Glow Scan/Scattering(Prop)
+
+[20:56:49][OP]OPParamModify:Root/Group/Glow Scan/Intensity(Prop)
+
+[20:56:50][Undo]OPParamModify:Root/Group/Glow Scan/Intensity(Prop)
+
+[20:56:52][OP]OPParamModify:Root/Group/Glow Scan/Blend Mode(Prop)
+
+[20:56:54][OP]OPDeleteProp:Root/Group:Glow Scan(Prop)
+
+[20:56:59][Undo]OPDeleteProp:Root/Group:_Effect/_AssetStore/_Shine/_GlowScan(Prop)
+
+[20:57:02][Redo]OPDeleteProp:Root/Group:Glow Scan(Prop)
+
+**************************
+[21:00:03]start saving project:3d outro daddy(Prop)
+
+[21:00:05]finished saving project, time cost:1.41
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0(Prop)
+
+[21:00:07]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0/3d outro daddy.nv(Home)
+
+[21:00:23][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Side Color(Prop)
+
+[21:00:53][Undo]OPParamModify:Root/Group/Text 3D/Text 3D/Side Color(Prop)
+
+[21:01:54][Redo]OPParamModify:Root/Group/Text 3D/Text 3D/Side Color(Prop)
+
+[21:02:01][OP]OPParamModify:Root/Group/Glow/Threshold(Prop)
+
+[21:02:17]start saving project:3d outro daddy(Export)
+
+[21:02:18]finished saving project, time cost:1.40
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0(Export)
+
+**************************
+[21:03:47]App Started:DeviceModel:samsung SM-A235F|OS:Android OS 14 / API-34 (UP1A.231005.007/A235FXXS7EXH1)|SysMem:5578|GPUMem:5834|GraphicsDevice:Adreno (TM) 610|ShaderLevel:50
+DeviceStr:5d63360bfabb1b278d1a5396eb7dc507(Prop)
+
+[21:03:47]Universal(Prop)
+
+[21:03:50]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0/3d outro daddy.nv(Home)
+
+[21:04:02][OP]OPParamModify:Root/Group/Text 3D/Transform/Position(Curve)
+
+[21:04:52]start saving project:3d outro daddy(Export)
+
+[21:04:53]finished saving project, time cost:1.40
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0(Export)
+
+**************************
+[20:49:01]App Started:DeviceModel:samsung SM-A235F|OS:Android OS 14 / API-34 (UP1A.231005.007/A235FXXS7EXH1)|SysMem:5578|GPUMem:5834|GraphicsDevice:Adreno (TM) 610|ShaderLevel:50
+DeviceStr:5d63360bfabb1b278d1a5396eb7dc507(Prop)
+
+[20:49:01]Universal(Prop)
+
+[20:49:05]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0/3d outro daddy.nv(Home)
+
+[20:49:36][OP]OPTimeLineModify:Root/Group(Prop)
+
+[20:49:41][OP]OPTimeLineModify:Root/Group/Text 3D(Prop)
+
+[20:49:55][Undo]OPTimeLineModify:Root/Group/Text 3D(Prop)
+
+[20:50:20]start saving project:3d outro daddy(Export)
+
+[20:50:21]finished saving project, time cost:1.44
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0(Export)
+
+**************************
+[20:50:38][export finished](Export)
+
+[20:52:18]start saving project:3d outro daddy(Prop)
+
+[20:52:21]finished saving project, time cost:2.93
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0(Prop)
+
+**************************
+[21:00:23]App Started:DeviceModel:samsung SM-A235F|OS:Android OS 14 / API-34 (UP1A.231005.007/A235FXXS7EXH1)|SysMem:5578|GPUMem:5834|GraphicsDevice:Adreno (TM) 610|ShaderLevel:50
+DeviceStr:5d63360bfabb1b278d1a5396eb7dc507(Prop)
+
+[21:00:23]Universal(Prop)
+
+[21:00:27]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0/3d outro daddy.nv(Home)
+
+**************************
+[21:00:38]start saving project:3d outro daddy(Prop)
+
+[21:00:39]finished saving project, time cost:1.39
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0(Prop)
+
+[21:00:42]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0/3d outro daddy.nv(Home)
+
+**************************
+[21:00:48]start saving project:3d outro daddy(Prop)
+
+[21:00:49]finished saving project, time cost:1.41
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0(Prop)
+
+[21:01:16]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0/3D Animation 2.nv(Home)
+
+[21:01:27][OP]OPDeleteNode:Root/Group/Text 3D(Prop)
+
+[21:01:45][OP]OPParamModify:Root/Group/Text 3D/Transform/Position(Prop)
+
+[21:02:06][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[21:02:28][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[21:02:30]Destroying Node in OPDeleteNode:Text 3D(Prop)
+
+[21:02:33][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Spacing(Prop)
+
+[21:02:45][OP]OPParamModify:Root/Group/Text 3D/Transform/Scale(Prop)
+
+[21:02:46][Undo]OPParamModify:Root/Group/Text 3D/Transform/Scale(Prop)
+
+[21:03:14][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Light Direction(Prop)
+
+[21:03:19]start saving project:3D Animation 2(Prop)
+
+[21:03:20]finished saving project, time cost:0.85
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0(Prop)
+
+**************************
+[21:03:35][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Light Direction(Prop)
+
+[21:03:44][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Diffusion(Prop)
+
+[21:03:45][Undo]OPParamModify:Root/Group/Text 3D/Text 3D/Diffusion(Prop)
+
+[21:04:04][OP]OPParamModify:Root/Group/Text 3D/Transform/Position(Prop)
+
+[21:04:15][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[21:04:16][Undo]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[21:04:46][OP]OPParamModify:Root/Group/Text 3D/Transform/Position(Curve)
+
+[21:04:53][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Curve)
+
+[21:05:32]start saving project:3D Animation 2(Prop)
+
+[21:05:33]finished saving project, time cost:1.12
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0(Prop)
+
+**************************
+[22:45:04]App Started:DeviceModel:samsung SM-A235F|OS:Android OS 14 / API-34 (UP1A.231005.007/A235FXXS7EXH1)|SysMem:5578|GPUMem:5834|GraphicsDevice:Adreno (TM) 610|ShaderLevel:50
+DeviceStr:5d63360bfabb1b278d1a5396eb7dc507(Prop)
+
+[22:45:04]Universal(Prop)
+
+[22:45:06]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0/3D Animation 2.nv(Home)
+
+[22:45:26]start saving project:3D Animation 2(Curve)
+
+[22:45:27]finished saving project, time cost:0.91
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0(Curve)
+
+**************************
+[22:45:37]start saving project:3D Animation 2(Export)
+
+[22:45:37]finished saving project, time cost:0.58
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0(Export)
+
+**************************
+[22:45:52][export finished](Export)
+
+[22:46:00]start saving project:3D Animation 2(Prop)
+
+[22:46:01]finished saving project, time cost:1.05
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0(Prop)
+
+**************************
+[22:49:04]App Started:DeviceModel:samsung SM-A235F|OS:Android OS 14 / API-34 (UP1A.231005.007/A235FXXS7EXH1)|SysMem:5578|GPUMem:5834|GraphicsDevice:Adreno (TM) 610|ShaderLevel:50
+DeviceStr:5d63360bfabb1b278d1a5396eb7dc507(Prop)
+
+[22:49:04]Universal(Prop)
+
+[22:49:06]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0/3D Animation 2.nv(Home)
+
+[22:49:20][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Face Color(Prop)
+
+[22:49:47][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Rotation(Prop)
+
+[22:49:48][Undo]OPParamModify:Root/Group/Text 3D/Text 3D/Rotation(Prop)
+
+[22:49:52][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Color(Prop)
+
+[22:50:09]start saving project:3D Animation 2(Export)
+
+[22:50:10]finished saving project, time cost:0.59
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6fd60aee-c507-419a-bdd4-b3e3e6f040f0(Export)
+
+**************************
+[12:18:26]App Started:DeviceModel:realme RMX3472|OS:Android OS 14 / API-34 (UKQ1.230924.001/S.1991316-488dd_2)|SysMem:7397|GPUMem:7653|GraphicsDevice:Adreno (TM) 619|ShaderLevel:50
+DeviceStr:bc1019015f522fcd5e5a2eea45d40658(Prop)
+
+[12:18:26]Universal(Prop)
+
+[12:19:09]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[12:19:17][OP]OPNewMedia:Image(Prop)
+
+[12:19:17]start saving project:3D Animation 2(Prop)
+
+[12:19:18]finished saving project, time cost:0,28
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[12:19:22]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Prop)
+
+[12:19:22]Project Setting Changed:_resolution_preset(Prop)
+
+[12:19:22]Project Setting Changed:_resolution_width(Prop)
+
+[12:19:22]Project Setting Changed:_resolution_height(Prop)
+
+[12:19:37][OP]OPTimeLineModify:Root/Group/Image(Prop)
+
+[12:19:45][OP]OPPropModify:DataTransform(Prop)
+
+[12:19:53][OP]OPChangeHierarchy:(Prop)
+
+[12:20:04][Undo]OPChangeHierarchy:(Prop)
+
+[12:20:06][Undo]OPPropModify:DataTransform(Prop)
+
+[12:20:14]start saving project:3D Animation 2(Prop)
+
+[12:20:15]finished saving project, time cost:1,20
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[12:22:26][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[12:22:41]start saving project:3D Animation 2(Prop)
+
+[12:22:41]finished saving project, time cost:0,69
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[12:23:00][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Environment Texture(Prop)
+
+[12:23:01][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Face Color(Prop)
+
+[12:23:06][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Side Color(Prop)
+
+[12:23:29]start saving project:3D Animation 2(Prop)
+
+[12:23:29]finished saving project, time cost:0,76
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[12:23:40][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Diffusion(Prop)
+
+[12:23:48][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[12:23:59]start saving project:3D Animation 2(Prop)
+
+[12:24:00]finished saving project, time cost:0,86
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[12:26:51][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[12:27:03]start saving project:3D Animation 2(Prop)
+
+[12:27:05]finished saving project, time cost:1,67
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[13:11:07]start saving project:3D Text Effect 2(Prop)
+
+[13:11:07]finished saving project, time cost:0,31
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/c1dbc4f4-c51f-4409-8a7f-98535fa1b0f3(Prop)
+
+[13:11:17]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[13:11:17]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+[13:11:29][OP]OPDuplicateNode:Root/Group/Text 3D(Prop)
+
+[13:11:35]start saving project:3D Animation 2(Prop)
+
+[13:11:36]finished saving project, time cost:0,43
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[13:12:20][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[13:12:25]start saving project:3D Animation 2(Prop)
+
+[13:12:27]finished saving project, time cost:2,23
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[13:12:45][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Spacing(Prop)
+
+[13:13:05]start saving project:3D Animation 2(Prop)
+
+[13:13:06]finished saving project, time cost:1,48
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[13:13:27][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Reflection(Prop)
+
+[13:13:31][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Light Direction(Prop)
+
+[13:14:10][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Face Color(Prop)
+
+[13:14:25][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Rotation(Prop)
+
+[13:14:34][Undo]OPParamModify:Root/Group/Text 3D/Text 3D/Rotation(Prop)
+
+[13:14:49][OP]OPNewProp:Root/Group/Text 3D:_NewProp/_TextEffect/_TextAnimation(Prop)
+
+[13:14:57][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Delay(Prop)
+
+[13:15:02][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Type(Prop)
+
+[13:15:05][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Axis(Prop)
+
+[13:15:12][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Start Rot(Prop)
+
+[13:15:18][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Randomize(Prop)
+
+[13:15:23][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Seed(Prop)
+
+[13:16:02]start saving project:3D Animation 2(Prop)
+
+[13:16:02]finished saving project, time cost:0,65
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[13:16:15][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Randomize(Prop)
+
+[13:16:31][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Seed(Prop)
+
+[13:16:45][Undo]OPParamModify:Root/Group/Text 3D/Text Animation/Seed(Prop)
+
+[13:16:50][Undo]OPParamModify:Root/Group/Text 3D/Text Animation/Randomize(Prop)
+
+[13:17:02][Redo]OPParamModify:Root/Group/Text 3D/Text Animation/Randomize(Prop)
+
+[13:17:13]start saving project:3D Animation 2(Prop)
+
+[13:17:13]finished saving project, time cost:0,54
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[13:17:21][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Randomize(Prop)
+
+[13:18:05]start saving project:3D Animation 2(Prop)
+
+[13:18:06]finished saving project, time cost:0,78
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[13:18:37][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[13:19:01]start saving project:3D Animation 2(Prop)
+
+[13:19:02]finished saving project, time cost:1,54
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+**************************
+[13:24:13]start saving project:3D Animation 4(Prop)
+
+[13:24:14]finished saving project, time cost:0,38
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/9f1ff9ec-ceef-4b38-8e40-8539037375dd(Prop)
+
+[13:24:16]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[13:24:17]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+[13:24:18]start saving project:3D Animation 2(Prop)
+
+[13:24:20]finished saving project, time cost:2,14
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[13:25:09][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Reflection(Prop)
+
+[13:25:26][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Light Direction(Prop)
+
+[13:26:17]start saving project:3D Animation 2(Prop)
+
+[13:26:18]finished saving project, time cost:1,13
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[13:26:39]start saving project:3D Animation 2(Prop)
+
+[13:26:40]finished saving project, time cost:0,94
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[13:28:41]start saving project:3D Animation 2(Export)
+
+[13:28:41]finished saving project, time cost:0,50
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Export)
+
+**************************
+[13:30:16]start saving project:3D Text Effect 5(Prop)
+
+[13:30:17]finished saving project, time cost:0,47
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/6b21aa2a-c30c-4450-a6d6-b5e8dc639000(Prop)
+
+[13:30:20]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[13:30:21]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+**************************
+[02:53:50]App Started:DeviceModel:realme RMX3472|OS:Android OS 14 / API-34 (UKQ1.230924.001/S.1991316-488dd_2)|SysMem:7397|GPUMem:7653|GraphicsDevice:Adreno (TM) 619|ShaderLevel:50
+DeviceStr:bc1019015f522fcd5e5a2eea45d40658(Prop)
+
+[02:53:50]Universal(Prop)
+
+[02:53:56]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[02:53:58]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+**************************
+[21:36:02]App Started:DeviceModel:realme RMX3472|OS:Android OS 14 / API-34 (UKQ1.230924.001/S.1991316-488dd_2)|SysMem:7397|GPUMem:7653|GraphicsDevice:Adreno (TM) 619|ShaderLevel:50
+DeviceStr:bc1019015f522fcd5e5a2eea45d40658(Prop)
+
+[21:36:02]Universal(Prop)
+
+[21:36:10]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[21:36:11]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+[21:36:32][OP]OPChangeHierarchy:(Prop)
+
+**************************
+[21:36:35]start saving project:3D Animation 2(Prop)
+
+[21:36:36]finished saving project, time cost:0,52
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+[21:36:39]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[21:36:40]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+[21:36:45][OP]OPTimeLineModify:Root/Group/Image(Prop)
+
+[21:36:52][OP]OPTimeLineModify:Root/Group(Prop)
+
+[21:37:06][OP]OPTimeLineModify:Root/Group/Text 3D(Prop)
+
+[21:37:10][Undo]OPTimeLineModify:Root/Group/Text 3D(Prop)
+
+[21:37:11][Undo]OPTimeLineModify:Root/Group(Prop)
+
+[21:37:12][Redo]OPTimeLineModify:Root/Group(Prop)
+
+[21:37:48][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[21:38:44]finished saving project, time cost:1,62
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[22:56:50]App Started:DeviceModel:realme RMX3472|OS:Android OS 14 / API-34 (UKQ1.230924.001/S.1991316-488dd_2)|SysMem:7397|GPUMem:7653|GraphicsDevice:Adreno (TM) 619|ShaderLevel:50
+DeviceStr:bc1019015f522fcd5e5a2eea45d40658(Prop)
+
+[22:56:50]Universal(Prop)
+
+[22:56:55]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[22:56:57]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+**************************
+[22:57:17]start saving project:3D Animation 2(Prop)
+
+[22:57:18]finished saving project, time cost:0,50
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+[22:57:21]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[22:57:22]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+[22:57:30][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[22:57:39][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Size(Prop)
+
+[22:57:53][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Bevel(Prop)
+
+[22:57:59][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Color(Prop)
+
+[22:58:38][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Style(Prop)
+
+**************************
+[23:04:41]App Started:DeviceModel:realme RMX3472|OS:Android OS 14 / API-34 (UKQ1.230924.001/S.1991316-488dd_2)|SysMem:7397|GPUMem:7653|GraphicsDevice:Adreno (TM) 619|ShaderLevel:50
+DeviceStr:bc1019015f522fcd5e5a2eea45d40658(Prop)
+
+[23:04:41]Universal(Prop)
+
+[23:04:43]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[23:04:44]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+[23:05:18][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[23:05:36][OP]OPParamModify:Root/Group/Text 3D/Transform/Position(Prop)
+
+[23:08:49][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[23:10:00][Undo]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[23:11:28]start saving project:3D Animation 2(Export)
+
+[23:11:28]finished saving project, time cost:0,50
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Export)
+
+**************************
+[23:20:12]App Started:DeviceModel:realme RMX3472|OS:Android OS 14 / API-34 (UKQ1.230924.001/S.1991316-488dd_2)|SysMem:7397|GPUMem:7653|GraphicsDevice:Adreno (TM) 619|ShaderLevel:50
+DeviceStr:bc1019015f522fcd5e5a2eea45d40658(Prop)
+
+[23:20:12]Universal(Prop)
+
+[23:20:15]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[23:20:16]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+[23:20:25][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[23:21:24][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[23:22:07][OP]OPParamModify:Root/Group/Text 3D/Transform/Pivot(Prop)
+
+[23:22:09][Undo]OPParamModify:Root/Group/Text 3D/Transform/Pivot(Prop)
+
+[23:22:12][OP]OPParamModify:Root/Group/Text 3D/Transform/Scale(Prop)
+
+[23:22:16][Undo]OPParamModify:Root/Group/Text 3D/Transform/Scale(Prop)
+
+[23:22:30][OP]OPParamModify:Root/Group/Text 3D/Transform/Link To(Prop)
+
+[23:22:40]start saving project:3D Animation 2(Prop)
+
+[23:22:43]finished saving project, time cost:2,74
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[23:28:21]start saving project:3D Animation 2(Prop)
+
+[23:28:23]finished saving project, time cost:1,20
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[23:29:36][OP]OPParamModify:Root/Group/Text 3D/Transform/Type(Prop)
+
+[23:29:39][OP]OPParamModify:Root/Group/Text 3D/Transform/Opacity(Prop)
+
+[23:29:43][OP]OPParamModify:Root/Group/Text 3D/Transform/Blend Mode(Prop)
+
+[23:29:45][OP]OPParamModify:Root/Group/Text 3D/Transform/Alpha Clip(Prop)
+
+[23:29:48][OP]OPParamModify:Root/Group/Text 3D/Transform/Link To(Prop)
+
+[23:30:04]start saving project:3D Animation 2(Prop)
+
+[23:30:05]finished saving project, time cost:0,48
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[23:30:22][OP]OPParamModify:Root/Group/Text 3D/Transform/Link To(Prop)
+
+[23:30:29][OP]OPParamModify:Root/Group/Text 3D/Transform/Opacity(Prop)
+
+[23:30:35][OP]OPParamModify:Root/Group/Text 3D/Transform/Alpha Clip(Prop)
+
+[23:30:37][OP]OPParamModify:Root/Group/Text 3D/Transform/Blend Mode(Prop)
+
+[23:30:48][OP]OPParamModify:Root/Group/Text 3D/Transform/Type(Prop)
+
+[23:31:23][OP]OPParamModify:Root/Group/Text 3D/Transform/Position(Prop)
+
+[23:31:38]start saving project:3D Animation 2(Prop)
+
+[23:31:41]finished saving project, time cost:2,82
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[23:32:08]start saving project:3D Animation 2(Prop)
+
+[23:32:09]finished saving project, time cost:1,24
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[23:33:28][OP]OPParamModify:Root/Group/Text 3D/Transform/Position(Prop)
+
+[23:33:34][Undo]OPParamModify:Root/Group/Text 3D/Transform/Position(Prop)
+
+[23:35:24][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[23:36:42]start saving project:3D Animation 2(Prop)
+
+[23:36:42]finished saving project, time cost:0,63
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[23:44:25]App Started:DeviceModel:realme RMX3472|OS:Android OS 14 / API-34 (UKQ1.230924.001/S.1991316-488dd_2)|SysMem:7397|GPUMem:7653|GraphicsDevice:Adreno (TM) 619|ShaderLevel:50
+DeviceStr:bc1019015f522fcd5e5a2eea45d40658(Prop)
+
+[23:44:25]Universal(Prop)
+
+[23:44:27]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[23:44:28]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+[23:45:00]start saving project:3D Animation 2(Prop)
+
+[23:45:03]finished saving project, time cost:2,53
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[23:46:06][OP]OPParamModify:Root/Group/Text 3D/Transform/Position(Prop)
+
+[23:46:57][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+**************************
+[13:06:10]App Started:DeviceModel:realme RMX3472|OS:Android OS 14 / API-34 (UKQ1.230924.001/S.1991316-488dd_2)|SysMem:7397|GPUMem:7653|GraphicsDevice:Adreno (TM) 619|ShaderLevel:50
+DeviceStr:bc1019015f522fcd5e5a2eea45d40658(Prop)
+
+[13:06:10]Universal(Prop)
+
+[13:06:14]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[13:06:15]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+[13:06:22][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[13:07:10][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[13:07:28][OP]OPMoveProp:Root/Group/Text 3D:1->1(Prop)
+
+[13:07:29][OP]OPMoveProp:Root/Group/Text 3D:1->2(Prop)
+
+[13:08:04]start saving project:3D Animation 2(Export)
+
+[13:08:05]finished saving project, time cost:0,50
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Export)
+
+**************************
+[13:14:01]App Started:DeviceModel:realme RMX3472|OS:Android OS 14 / API-34 (UKQ1.230924.001/S.1991316-488dd_2)|SysMem:7397|GPUMem:7653|GraphicsDevice:Adreno (TM) 619|ShaderLevel:50
+DeviceStr:bc1019015f522fcd5e5a2eea45d40658(Prop)
+
+[13:14:01]Universal(Prop)
+
+[13:14:03]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[13:14:04]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+[13:14:10][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[13:14:47][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Seed(Prop)
+
+[13:14:58][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Randomize(Prop)
+
+[13:15:14]start saving project:3D Animation 2(Export)
+
+[13:15:15]finished saving project, time cost:0,52
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Export)
+
+**************************
+[19:23:45]App Started:DeviceModel:realme RMX3472|OS:Android OS 14 / API-34 (UKQ1.230924.001/S.1991316-488dd_2)|SysMem:7397|GPUMem:7653|GraphicsDevice:Adreno (TM) 619|ShaderLevel:50
+DeviceStr:bc1019015f522fcd5e5a2eea45d40658(Prop)
+
+[19:23:45]Universal(Prop)
+
+[19:24:26]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[19:24:27]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+[19:24:39][OP]OPParamModify:Root/Group/Text 3D/Transform/Position(Prop)
+
+[19:24:54][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[19:25:12]start saving project:3D Animation 2(Prop)
+
+[19:25:13]finished saving project, time cost:1,01
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[19:25:31][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[19:25:33][Undo]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[19:26:11][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[19:26:23][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Size(Prop)
+
+[19:27:04][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Depth(Prop)
+
+[19:27:07][Undo]OPParamModify:Root/Group/Text 3D/Text 3D/Depth(Prop)
+
+[19:27:09][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Spacing(Prop)
+
+[19:27:19]start saving project:3D Animation 2(Export)
+
+[19:27:20]finished saving project, time cost:0,46
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Export)
+
+**************************
+[19:27:43][export finished](Export)
+
+[19:27:45]start saving project:3D Animation 2(Prop)
+
+[19:27:48]finished saving project, time cost:2,54
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[19:29:06][OP]OPTimeLineModify:Root/Group/Text 3D(Prop)
+
+[19:29:41][Undo]OPTimeLineModify:Root/Group/Text 3D(Prop)
+
+[19:29:45][Undo]OPParamModify:Root/Group/Text 3D/Text 3D/Spacing(Prop)
+
+[19:30:00][OP]OPParamModify:Root/Group/Text 3D/Transform/Rotation(Prop)
+
+[19:30:37][OP]OPTimeLineModify:Root/Group/Image(Prop)
+
+[19:30:46]start saving project:3D Animation 2(Prop)
+
+[19:30:48]finished saving project, time cost:1,35
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[19:33:02][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[19:33:10][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[19:33:14]start saving project:3D Animation 2(Prop)
+
+[19:33:15]finished saving project, time cost:1,12
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[19:33:35][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[19:33:39]start saving project:3D Animation 2(Prop)
+
+[19:33:40]finished saving project, time cost:1,06
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Prop)
+
+**************************
+[19:38:10]start saving project:3D Animation 2(Export)
+
+[19:38:10]finished saving project, time cost:0,47
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Export)
+
+**************************
+[19:55:56]start saving project:3D Animation 7(Prop)
+
+[19:55:56]finished saving project, time cost:0,27
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/d5fcffa5-084e-4cef-8f1c-7f7ff41d1a10(Prop)
+
+[19:55:58]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[19:55:59]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+[19:56:04]start saving project:3D Animation 2(Export)
+
+[19:56:05]finished saving project, time cost:0,45
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1(Export)
+
+**************************
+[19:30:39]start saving project:3D Text Effect 6(Prop)
+
+[19:30:39]finished saving project, time cost:0,34
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a230c68a-6360-4b3b-9b33-54793f5bc829(Prop)
+
+[19:30:45]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/3D Animation 2.nv(Home)
+
+[19:30:46]Image Asset Loaded:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/b17da22a-3c76-4daa-8745-6646f07aadf1/Medias/picked1000011470.jpg Width3240 Height2160(Home)
+
+[19:31:03][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[19:31:14][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
